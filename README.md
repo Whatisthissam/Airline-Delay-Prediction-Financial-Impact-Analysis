@@ -35,9 +35,12 @@ The dataset contains flight-level operational data including:
 
 ## 🔗 Dataset Source
 
-The dataset used in this project is publicly available from:
+Airline Delay Analysis Dataset (2015)
 
-https://colab.research.google.com/drive/1OofI9Bg-eySbcXm6cLBOx_zZMgtG-3Lu?usp=sharing
+Source: Kaggle  
+https://www.kaggle.com/datasets/sherrytp/airline-delay-analysis
+
+The dataset contains U.S. domestic flight delay records including departure delay, arrival delay, carrier delay, weather delay, and other operational factors.
 
 ## 🛠 Technologies Used
 
