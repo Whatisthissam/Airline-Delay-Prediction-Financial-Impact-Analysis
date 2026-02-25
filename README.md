@@ -124,7 +124,7 @@ An interactive Streamlit application allows users to:
 
 • Ragini Singh
 
-• Saumya 
+• Saumya Chinchkhede
 
 • Sameer Rathod
 
