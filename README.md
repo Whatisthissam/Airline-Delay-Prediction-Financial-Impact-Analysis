@@ -1,4 +1,9 @@
 # ✈️ Airline Delay Prediction & Financial Impact Analysis
+## 🌐 Live Demo
+
+The deployed Streamlit application can be accessed here:
+
+🔗 https://airline-delay-prediction.streamlit.app
 ## 📌 Project Overview 
 
 Flight delays significantly affect airline profitability and customer satisfaction.
