@@ -174,7 +174,7 @@ An interactive Streamlit application allows users to:
 
 This project was developed collaboratively as part of an academic group submission.
 
-- **Ragini Singh** – Data Cleaning, EDA, Visualization, ML Modeling, Financial Analysis  
+- **Ragini Singh** – Data Cleaning, EDA, Visualization, ML Modeling, Financial Analysis, Documentaion , Deployeement  
 - **Saumya Chinchkhede** – Dataset Preparation, Feature Understanding, EDA Support  
 - **Sameer Rathod** – Model Evaluation, Result Interpretation  
 - **Aaditya Prasad** – Business Insights, Financial Interpretation, Conclusion Support  
