@@ -150,12 +150,20 @@ An interactive Streamlit application allows users to:
 
 ## 📸 Output Screenshots
 
-Model and visualization outputs are available in the `/screenshots` folder.
+### 📊 Arrival Delay Distribution
+![Delay Distribution](screenshots/histogram.png)
 
-• Arrival Delay Distribution  
-• Airline Comparison Chart  
-• K-Means Clustering Output  
-• Model Performance (R² Score)
+### ✈ Airline Comparison Chart
+![Airline Comparison](screenshots/airline_bar.png)
+
+### 🔵 K-Means Clustering Output
+![KMeans](screenshots/kmeans.png)
+
+### 📈 Linear Regression Performance
+![Regression](screenshots/regression.png)
+
+### 💰 Financial Loss Estimation
+![Financial Loss](screenshots/financial_loss.png)
 
 ## 👥 Team
 
