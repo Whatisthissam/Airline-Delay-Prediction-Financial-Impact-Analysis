@@ -4,6 +4,11 @@
 Flight delays significantly affect airline profitability and customer satisfaction.
 This project analyzes airline delay patterns, predicts arrival delays using Machine Learning, and estimates financial loss impact.
 
+## 📌 Business Problem Statement
+
+Airline delays create operational inefficiencies, increase costs, reduce customer satisfaction, and impact revenue optimization. 
+This project aims to analyze delay patterns, apply machine learning models, and quantify financial losses to support better strategic decision-making.
+
 ## 🎯 Objectives
 
 • Analyze delay patterns using Exploratory Data Analysis (EDA)
@@ -28,6 +33,13 @@ The dataset contains flight-level operational data including:
 
 • Arrival Delay
 
+## 🔗 Dataset Source
+
+The dataset used in this project is publicly available from:
+[https://colab.research.google.com/drive/1OofI9Bg-eySbcXm6cLBOx_zZMgtG-3Lu?usp=sharing]
+
+(If using sample dataset, mention source clearly.)
+
 ## 🛠 Technologies Used
 
 • Python
@@ -50,6 +62,13 @@ The dataset contains flight-level operational data including:
 • Selected relevant features
 
 • Filtered extreme values
+
+## 🤖 AI Techniques Used
+
+• K-Means Clustering (Unsupervised Learning)  
+• Linear Regression (Supervised Learning)  
+• Feature Scaling using StandardScaler  
+• Model Evaluation using R² Score
 
 ## 2️⃣ Exploratory Data Analysis
 
@@ -119,6 +138,22 @@ An interactive Streamlit application allows users to:
 • Use predictive analytics for proactive planning.
 
 • Monitor delay cost impact regularly.
+
+## 📈 Economic Concepts Applied
+
+• Demand-Supply Imbalance – Delays affect flight availability and customer demand patterns.  
+• Revenue Optimization – Predicting delays helps improve pricing and scheduling strategy.  
+• Cost Analysis – Delay-based financial loss estimation highlights operational cost impact.  
+• Risk Management – Clustering identifies high-risk operational segments.
+
+## 📸 Output Screenshots
+
+Model and visualization outputs are available in the `/screenshots` folder.
+
+• Arrival Delay Distribution  
+• Airline Comparison Chart  
+• K-Means Clustering Output  
+• Model Performance (R² Score)
 
 ## 👥 Team
 
