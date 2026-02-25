@@ -39,8 +39,6 @@ The dataset used in this project is publicly available from:
 
 https://colab.research.google.com/drive/1OofI9Bg-eySbcXm6cLBOx_zZMgtG-3Lu?usp=sharing
 
-(If using sample dataset, mention source clearly.)
-
 ## 🛠 Technologies Used
 
 • Python
