@@ -120,36 +120,14 @@ An interactive Streamlit application allows users to:
 
 • Monitor delay cost impact regularly.
 
-## 👥 Team Members
-### 🔹 Ragini Singh
-- Data Cleaning and Preprocessing  
-- Exploratory Data Analysis (EDA)  
-- Data Visualization (Histogram, Bar Charts, Scatter Plots)  
-- KMeans Clustering Implementation  
-- Linear Regression Model Development  
-- Financial Loss Estimation  
-- GitHub Repository Management  
+## 👥 Team
 
----
+This project was developed collaboratively as part of an academic group submission.
 
-### 🔹 Saumya Chinchkhede
-- Dataset Collection and Initial Preparation  
-- Data Understanding and Feature Analysis  
-- Supporting EDA and Interpretation  
-
----
-
-### 🔹 Sameer Rathod
-- Model Evaluation Assistance  
-- Result Interpretation and Performance Analysis  
-- Validation and Testing Support  
-
----
-
-### 🔹 Aaditya Prasad
-- Business Insight Development  
-- Financial Impact Interpretation  
-- Conclusion Framing and Presentation Support  
+- **Ragini Singh** – Data Cleaning, EDA, Visualization, ML Modeling, Financial Analysis  
+- **Saumya Chinchkhede** – Dataset Preparation, Feature Understanding, EDA Support  
+- **Sameer Rathod** – Model Evaluation, Result Interpretation  
+- **Aaditya Prasad** – Business Insights, Financial Interpretation, Conclusion Support  
 
 ---
 
