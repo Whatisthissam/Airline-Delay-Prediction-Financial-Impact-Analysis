@@ -1,1 +1,1 @@
-screenshots/README.md
+This folder contains output screenshots.
