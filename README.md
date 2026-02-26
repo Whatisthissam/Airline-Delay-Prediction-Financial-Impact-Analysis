@@ -174,6 +174,12 @@ An interactive Streamlit application allows users to:
 ### 💰 Financial Loss Estimation
 ![Financial Loss](screenshots/financial_loss.png)
 
+### Dashboard
+![Financial Loss](screenshots/dashboard.png)
+
+### Dashboard
+![Financial Loss](screenshots/dashboard1.png)
+
 ## 👥 Team
 
 This project was developed collaboratively as part of an academic group submission.
