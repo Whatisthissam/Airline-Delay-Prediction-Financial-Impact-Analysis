@@ -65,7 +65,7 @@ cost_per_minute = st.sidebar.number_input(
     "💸 Cost per Minute (₹)", 
     min_value=1, 
     max_value=1000000, 
-    value=8000 # Defaulting to ~100 USD
+    value=8000 
 )
 
 # ---------------- LOGIC ----------------
@@ -149,4 +149,3 @@ fig2.update_layout(
 fig2.update_yaxes(tickformat=",.0f")
 
 st.plotly_chart(fig2, use_container_width=True)
-
